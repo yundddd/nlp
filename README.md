@@ -1,5 +1,7 @@
-# nlp
+# Deep Learning For Natural Language Processing 
 
 ### Chapter 1: Embedding
 
-N-gram model: 
+N-gram model: <a target="_blank" href="https://colab.research.google.com/github/yundddd/nlp/blob/main/chapter-1-embedding/n_gram.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
